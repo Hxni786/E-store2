@@ -1,7 +1,7 @@
 # Hxni Ecommerce Store
 
-![Hxni Store App UI](https://i.postimg.cc/DwsYqQ8z/Gemini-Generated-Image-3uegum3uegum3ueg.png)
-![Hxni Store Lifestyle](https://i.postimg.cc/1XnKyPFP/Gemini-Generated-Image-vkhwdbvkhwdbvkhw.png)
+![Hxni Store App UI](docs/ui-preview.png)
+![Hxni Store Lifestyle](docs/lifestyle-preview.png)
 
 > A production-quality mobile e-commerce application with an editorial serif aesthetic.
 > Built with React Native (Expo) + Node.js + Express + MySQL.
