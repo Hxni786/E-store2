@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name":    "Hxni Store",
+    "slug":    "hxni-ecommerce-store",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "resizeMode":      "contain",
+      "backgroundColor": "#FAFAF8"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet":      false,
+      "bundleIdentifier":    "com.hxni.store",
+      "infoPlist": {
+        "NSAppTransportSecurity": {
+          "NSAllowsArbitraryLoads": true
+        }
+      }
+    },
+    "android": {
+      "package": "com.hxni.store"
+    },
+    "plugins": [
+      "expo-font"
+    ]
+  }
+}
